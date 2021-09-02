@@ -5,20 +5,20 @@ Bunch of resources and write ups for the OSWE exam and certification.
 
 ### [RCE](RCE.md)
 
-### [File Upload Vulnerabilities]()
+### [File Upload Vulnerabilities]( FileUpload.md )
 
-### [XSS to RCE]()
+### [XSS to RCE]( XSStoRCE.md )
 
-### [Deserialization]()
+### [Deserialization]( Deserialization.md )
 
-### [Authentication Bypass]()
+### [Authentication Bypass]( AuthBypass.md )
 
-### [SQL Injection]()
+### [SQL Injection]( SQLi.md )
 
-### [Type Juggling]()
+### [Type Juggling]( Type-Juggling.md )
 
-### [JavaScript Injection]()
+### [JavaScript Injection]( JS-Injection.md )
 
-### [Server-Side Template Injection (SSTI)]()
+### [Server-Side Template Injection (SSTI)]( SSTI.md )
 
-### [Miscellaneous]()
+### [Miscellaneous]( Misc.md )
