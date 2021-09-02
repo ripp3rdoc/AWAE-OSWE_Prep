@@ -6,6 +6,8 @@
 
 [Just another AWAE / WEB-300 / OSWE guide in 2021](https://rayhan0x01.github.io/web/2021/04/12/awae-web-300-oswe-guide-2021.html)
 
+[wetw0rk OSWE Repo](https://github.com/wetw0rk/AWAE-PREP)
+
 [OSWE/AWAE Preparation by Z-r0crypt](https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/)
 ## OSWE-Like Boxes and CTFs
 [[HTB] Falafel — Writeup (OSWE-Prep)](https://infosecwriteups.com/htb-falafel-writeup-oswe-prep-3b8b56b64076)
