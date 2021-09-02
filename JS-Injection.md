@@ -1,1 +1,1 @@
-
+# JavaScript Injection Vulnerabilities
